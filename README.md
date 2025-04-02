@@ -1,2 +1,2 @@
 # exercicios_em_aula
- almcjsdbvisabvuwbd
+Faremos alguns exercícios de teste.
